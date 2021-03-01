@@ -7,7 +7,7 @@ Tatjana Grencione
 3 Fedaks Alekss
 
 4 Gaile Aïona
-print(23-9)
+print(23-9+1)
 5 Gaile Anna
 
 6 Griðaèova Violeta
